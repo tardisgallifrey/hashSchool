@@ -3,9 +3,9 @@ package com.tardisgallifrey.google;
 public class Main {
     public static void main(String[] args) {
 
+        //hash collision procedures for Advanced Java Class
 
         int key = 63;
-        int H1 = 10;
         int H2 = 11;
         int i = 2;
 
